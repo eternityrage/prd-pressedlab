@@ -1803,5 +1803,24 @@
         "page_name": "PressedLab Lens"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_cantalo\u2026_20260926031626.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1339129032621410",
+        "video_id": "1795454748328380",
+        "comment_id": "1795454748328380_2001855090498719",
+        "page_name": "PressedLab Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1339129032621410",
+        "page_name": "PressedLab Lens"
+      }
+    ]
   }
 ]
