@@ -2886,5 +2886,24 @@
         "page_name": "PressedLab Lens"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_yellow_\u2026_20260926031624.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1339129032621410",
+        "video_id": "1440849804914715",
+        "comment_id": "1440849804914715_1807364310520024",
+        "page_name": "PressedLab Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1339129032621410",
+        "page_name": "PressedLab Lens"
+      }
+    ]
   }
 ]
