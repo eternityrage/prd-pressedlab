@@ -3057,5 +3057,24 @@
         "page_name": "PressedLab Lens"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_purple_\u2026_20260926030819.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1339129032621410",
+        "video_id": "1484045830320783",
+        "comment_id": "1484045830320783_1533576011940763",
+        "page_name": "PressedLab Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1339129032621410",
+        "page_name": "PressedLab Lens"
+      }
+    ]
   }
 ]
