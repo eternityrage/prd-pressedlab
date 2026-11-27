@@ -3513,5 +3513,24 @@
         "page_name": "PressedLab Lens"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_berries_20260926030820.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "page_id": "1339129032621410",
+        "video_id": "2978959952500479",
+        "comment_id": "2978959952500479_1809702867822501",
+        "page_name": "PressedLab Lens"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story",
+        "page_id": "1339129032621410",
+        "page_name": "PressedLab Lens"
+      }
+    ]
   }
 ]
